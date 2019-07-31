@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Out Of Office Pro",
+    "name": "My Site",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -13,7 +13,7 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Source Sans Pro",
+        "display1Font": "Roboto Slab",
         "display1Size": "5.8",
         "display2Font": "Rubik",
         "display2Size": 3,
@@ -40,11 +40,6 @@
         "css": "'Roboto Slab', serif",
         "name": "Roboto Slab",
         "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700"
-      },
-      {
-        "css": "'Source Sans Pro', sans-serif",
-        "name": "Source Sans Pro",
-        "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i"
       }
     ],
     "versionFirst": "4.7.6",
@@ -52,8 +47,7 @@
     "versionPublish": "4.10.6",
     "favicon": "@PROJECT_PATH@/assets/images/rednotextlogo-128x128.png",
     "noImageResize": "",
-    "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-144921287-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-144921287-1');\r\n</script>"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
